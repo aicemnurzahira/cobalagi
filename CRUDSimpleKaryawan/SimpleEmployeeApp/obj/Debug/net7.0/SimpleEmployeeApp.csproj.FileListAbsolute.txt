@@ -1,0 +1,34 @@
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.exe
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.deps.json
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.runtimeconfig.json
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.dll
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.pdb
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.csproj.AssemblyReference.cache
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.AssemblyInfoInputs.cache
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.AssemblyInfo.cs
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.dll
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\refint\SimpleEmployeeApp.dll
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.pdb
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.genruntimeconfig.cache
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\ref\SimpleEmployeeApp.dll
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\BetterConsoleTables.dll
+C:\Data\Work\valarion\repos\dotNetAssessmentTest2\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.csproj.CopyComplete
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.exe
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.deps.json
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.runtimeconfig.json
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.dll
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\SimpleEmployeeApp.pdb
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\bin\Debug\net7.0\BetterConsoleTables.dll
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.AssemblyInfo.cs
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.csproj.CopyComplete
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.dll
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\refint\SimpleEmployeeApp.dll
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.pdb
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\SimpleEmployeeApp.genruntimeconfig.cache
+C:\Users\Ryan\Documents\One\Builder App\C#\dotNetAssessmentTest2-main\SimpleEmployeeApp\SimpleEmployeeApp\obj\Debug\net7.0\ref\SimpleEmployeeApp.dll
